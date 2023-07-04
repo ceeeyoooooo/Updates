@@ -1,1 +1,2 @@
-+ Test Update
+~ Buffed Auto Contest Lag (Max Increased to 300)
+~ Electron/Valyse fixed crashes with Bar-Optimized mode, feel free to use it again if you switched
