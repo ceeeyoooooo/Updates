@@ -1,2 +1,5 @@
-~ Buffed Auto Contest Lag (Max Increased to 300)
-~ Electron/Valyse fixed crashes with Bar-Optimized mode, feel free to use it again if you switched
++ Added Anti Contest Lag
+Can detect when you're being lagged and tell you the nearby players
+:warning: Can only detect it on higher lag amount and the nearby players are not the people who lagged you just people close to you.
+:warning: Be cautious with using auto contest lag because people might know easier now
++ Added Toggle infinite stamina in settings
