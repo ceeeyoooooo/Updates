@@ -1,4 +1,4 @@
-	UpdateLogs = {
+	Logs = {
 		"I_This is a beta testing build!",
         "I_Use new features at your own risk.",
 		"I_Updates are sorted by time of release.",
